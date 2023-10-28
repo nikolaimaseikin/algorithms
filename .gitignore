@@ -1,0 +1,7 @@
+# Visual Studio Code specific files and folders
+.vscode/
+.settings/
+
+# Python specific
+__pycache__/
+*.pyc
